@@ -1,4 +1,4 @@
-# Customer & Sales Intelligence Dashboard | Retail Analytics
+# Customer & Sales Intelligence Dashboards
 
 ## Overview
 This project delivers a Tableau-powered analytics product for retail businesses, focusing on customer behavior, sales, and profitability. Designed for business stakeholders, the dashboards provide interactive analysis capabilities, streamlining reporting and informing data-driven decisions.
