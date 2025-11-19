@@ -37,5 +37,3 @@ This project delivers a Tableau-powered analytics product for retail businesses,
 - Facilitates customer and sales segmentation for targeted business strategies.
 
 ---
-
-For any questions on file structure or dashboard usage, see in-repo documentation or reach out via repository issues.
